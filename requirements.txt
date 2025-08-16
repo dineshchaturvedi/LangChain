@@ -22,3 +22,5 @@ sse_starlette
 transformers
 langchain_huggingface
 sentence-transformers
+ipywidgets
+notebook
